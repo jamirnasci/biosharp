@@ -1,0 +1,6 @@
+bin/
+obj/
+test/
+Program.cs
+bioseqsharp
+bioseqsharp.pub
